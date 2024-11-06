@@ -1,0 +1,3 @@
+INSERT INTO manager (id, login_id, password, enabled) VALUES (1, 'admin1', '$2a$10$JDfqB57FR4OmoLyluEACRuK2tweY9qk7FxjrUqU/LiA8c5RJPf2S6', 1);
+INSERT INTO manager (id, login_id, password, enabled) VALUES (2, 'admin2', '$2a$10$JDfqB57FR4OmoLyluEACRuK2tweY9qk7FxjrUqU/LiA8c5RJPf2S6', 1);
+INSERT INTO manager (id, login_id, password, enabled) VALUES (3, 'manager', '$2a$10$JDfqB57FR4OmoLyluEACRuK2tweY9qk7FxjrUqU/LiA8c5RJPf2S6', 1);
